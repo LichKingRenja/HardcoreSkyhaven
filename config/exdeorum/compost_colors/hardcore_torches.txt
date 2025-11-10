@@ -1,0 +1,10 @@
+// Compost colors for hardcore_torches. You may add your own colors, change existing ones, or remove colors that aren't needed.
+animal_fat, #ffe1d3
+bandolier, #8e4e28
+burnt_torch, #6e5432
+fire_starter, #a7826b
+oil_can, #cc3e43
+smoldering_torch, #987244
+unlit_campfire, #98805e
+unlit_soul_torch, #847954
+unlit_torch, #8c724d
